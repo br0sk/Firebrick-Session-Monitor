@@ -1,7 +1,7 @@
 Firebrick-Session-Monitor
 =========================
 
-Shows you session information by polling your Firebrick session XML file
+Shows you session information by polling your [Firebrick FB2700](http://www.firebrick.co.uk/products_2700.php)   session XML file
 
 Nothing much to see here yet. 
 
